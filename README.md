@@ -1,8 +1,9 @@
 ### Content of repo
 
-This repo contains three files:
+This repo contains four files:
 * run_analysis.R: this file contains my code to fulfill the assignment for "Getting and Cleaning Data"
 * CodeBook.md: within this file the variables in "data_set_means.txt" (coursera assigment page) are explained
+* data_set_means.txt: resulting data set that was also copied to coursera assignment page
 * README.md: this file gives more information on the assignment and the working of run_analysis.R
 
 ### Information on run_analysis.R and the resulting table
